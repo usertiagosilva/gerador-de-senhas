@@ -1,0 +1,16 @@
+C:\Users\Guilherme M\source\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net8.0-windows\GeradorDeSenhas.exe
+C:\Users\Guilherme M\source\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net8.0-windows\GeradorDeSenhas.deps.json
+C:\Users\Guilherme M\source\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net8.0-windows\GeradorDeSenhas.runtimeconfig.json
+C:\Users\Guilherme M\source\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net8.0-windows\GeradorDeSenhas.dll
+C:\Users\Guilherme M\source\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net8.0-windows\GeradorDeSenhas.pdb
+C:\Users\Guilherme M\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0-windows\GeradorDeSenhas.Form1.resources
+C:\Users\Guilherme M\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0-windows\GeradorDeSenhas.csproj.GenerateResource.cache
+C:\Users\Guilherme M\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0-windows\GeradorDeSenhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme M\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0-windows\GeradorDeSenhas.AssemblyInfoInputs.cache
+C:\Users\Guilherme M\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0-windows\GeradorDeSenhas.AssemblyInfo.cs
+C:\Users\Guilherme M\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0-windows\GeradorDeSenhas.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme M\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0-windows\GeradorDeSenhas.dll
+C:\Users\Guilherme M\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0-windows\refint\GeradorDeSenhas.dll
+C:\Users\Guilherme M\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0-windows\GeradorDeSenhas.pdb
+C:\Users\Guilherme M\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0-windows\GeradorDeSenhas.genruntimeconfig.cache
+C:\Users\Guilherme M\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0-windows\ref\GeradorDeSenhas.dll
